@@ -1,0 +1,1 @@
+A retail management system that's written in PHP. Has everything you will need from inventory tracking, on down to scheduling and time clock features. Plus, we have a few nifty little features including the ability to get nightly reports of stock shortages, and full reporting throughout.
